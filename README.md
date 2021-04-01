@@ -1,6 +1,8 @@
 # Q_SchrodingerPoisson1D_Dirichlet_demo
 Schrodinger-Poisson solver with Dirichlet boundary condition in 1D demonstrator
 
+![image](https://user-images.githubusercontent.com/35040499/113291490-65596e00-92f3-11eb-9750-bc5b83d85d68.png)
+
 This program computes the Schrodinger-Poisson equations in heterostructures with the Dirichlet boundary conditions. This means that the doping level on the left and right side of the structure are the boundary conditions since they are setting the Fermi level.
 In order to be educatif and simple, few approximations are made:
 
